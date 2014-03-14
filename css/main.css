@@ -1,0 +1,47 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+@font-face
+{
+font-family: Pacifico;
+src: url(../fonts/Pacifico.ttf);
+} 
+p.text-white
+{
+color:#FFF;
+font-family:Pacifico;
+font-size:18px;
+}
+.form-control
+{
+height:55px;
+}
+.flat-icon
+{
+background-color:#64bbb1;
+border:solid 1px #FFF !important;
+border-radius:3px !important;
+font-family:Pacifico;
+font-size:20px;
+color:#FFF;
+}
+.flat-icon:hover
+{
+color:#64bbb1;
+background-color:#FFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
